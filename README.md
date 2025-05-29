@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently **in 2d year Btech**
 
-- 🌱 I’m currently learning **Java,Jetpack and Kotlin**
+- 🌱 I’m currently learning **Java, Kotlin, Firebase, Jetpack and Springboot**
 
 - 👯 I’m looking to collaborate on **Personal Trainer App**
 
