@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, Firebase, Jetpack and Springboot**
 
-- 👯 I’m looking to collaborate on **Personal Trainer App**
+- 👯 I’m looking to collaborate on **My project "Personal Trainer" App**
 
 - 📫 How to reach me **mdyusufmasood7488@gmail.com**
 
