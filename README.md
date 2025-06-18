@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufmasood" alt="yusufmasood" /></a> </p>
 
-- 🔭 I’m currently **in 2d year Btech**
+- 🔭 I’m currently **in 3rd year Btech**
 
 - 🌱 I’m currently learning **Java, Kotlin, Firebase, Jetpack and Springboot**
 
