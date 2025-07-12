@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufmasood&show_icons=true&locale=en" alt="yusufmasood" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufmasood&" alt="yusufmasood" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufmasood" alt="GitHub Streak" />
+</p>
+
