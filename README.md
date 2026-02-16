@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **My project "Personal Trainer" App**
 
-- 📫 How to reach me **mdyusufmasood7488@gmail.com**
-
 - ⚡I love to workout and play vollyball**
+
+- 📫 How to reach me **mdyusufmasood7488@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
