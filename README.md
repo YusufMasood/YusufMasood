@@ -13,7 +13,7 @@
 > Shipping working, end-to-end applications — not isolated exercises.
 
 - 📍 Based in **Delhi**
-- 🎓 3rd-year B.Tech (IT), GGSIPU — cloud computing intern at Codec Technologies
+- 🎓 4th-year B.Tech (IT), GGSIPU — cloud computing intern at Codec Technologies
 
 *Comfortable across the stack: API design, database design, auth, and debugging.*
 
