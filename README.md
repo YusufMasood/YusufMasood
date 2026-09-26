@@ -65,7 +65,7 @@
 <div align="center">
 
 <a href="https://github.com/YusufMasood"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF" /></a>
-<a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yusuf-masood-4ab49a30a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mdyusufmasood7488@gmail.com"><img src="https://img.shields.io/badge/Email-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 
 </div>
